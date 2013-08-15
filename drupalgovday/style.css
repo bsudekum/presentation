@@ -27,6 +27,9 @@ html, .view body { background-color: #EBEBEB; counter-reset: slideidx; }
     margin: 1em 0 1em 0;
   }
 
+#gist6237569 {
+  height: 95%
+}
   h1, h2 {
     margin-top: 100px;
     text-align: center;
